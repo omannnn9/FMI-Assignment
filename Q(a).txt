@@ -8,11 +8,160 @@ What are the main functions of the foreign exchange market using examples of the
 
 
 bullet points:
+
+- Define the foreign exchange market (forex) where currencies are traded. Mention how MUR commonly traded against GDP, USD & Euro.
+
+- List & Explain main functions of the FEM. (i) Currency conversion, (ii) Risk Management, (iii) Speculation, (iv) Arbitrage, (v) Price Discovery, (vi) Liquidity Provision / Facilitating Trade, (vii) Facilitation of International Investment and Capital Flows, (viii) Supporting Monetary Policy.
+
 -
+
 -
+
 -
+
 -
+
 -
+
 -
--
--
+
+
+
+
+What to include in the question?
+A. Introduction
+
+Briefly explain role of forex market in global economy.
+Link to Mauritius as a small open economy heavily dependent on imports/exports.
+
+B. Main Functions (detailed discussion)
+Each function explained + Mauritian examples.
+
+C. Importance of Forex Market to Mauritian Economy
+Discuss:
+Tourism
+Financial services
+Foreign labour payments
+Import‑dependency
+Exchange rate stability
+
+D. Challenges in the Mauritian FX market (optional high‑mark add‑on)
+
+USD shortages
+MUR depreciation trends
+BoM interventions
+Regulatory changes
+
+E. Conclusion
+Summarise importance + future outlook.
+
+
+
+
+How to approach the question?
+
+DEFINE
+
+Give the meaning of a concept.
+Keep it short and precise.
+Use when introducing the forex market and each function.
+
+EXPLAIN
+
+Describe how something works.
+This is the bulk of your paragraphs.
+
+ANALYSE
+
+Break the function into parts and show cause–effect relationships.
+Use economic thinking (“This leads to…”, “As a result…”).
+Appear in every main function’s paragraph.
+
+APPLY
+
+Use Mauritian examples.
+This is CRUCIAL for full marks in this question.
+
+EVALUATE
+
+Assess strengths, weaknesses, limitations, effectiveness.
+Appear at the end of a major section or after a function.
+This is where you get high marks.
+
+
+
+
+
+
+A. INTRODUCTION (1 paragraph)
+Length: ~150–180 words
+Include:
+
+Define the forex market.
+State its purpose in the global economy.
+Link to Mauritius as a small open economy.
+Preview the key functions you will discuss.
+
+B. FUNCTION PARAGRAPH STRUCTURE (Use this for each function)
+
+1. DEFINE the function
+E.g., Liquidity provision refers to…
+2. EXPLAIN why this function is important
+Describe the role the function plays in any forex market.
+3. ANALYSE how the function works (cause–effect)
+Example:
+
+When tourist inflows rise, supply of EUR increases → MUR appreciates.
+When importers demand USD for fuel, USD/MUR rises.
+
+4. APPLY to Mauritius (REAL EXAMPLES)
+Use specific, local, realistic examples:
+
+Tourism converting EUR/GBP
+Textile/seafood exports converting USD
+Fuel and pharmaceutical imports
+Banks like MCB, SBM, AfrAsia coordinating FX trades
+Bank of Mauritius interventions
+
+5. EVALUATE (Discuss effectiveness/limitations)
+This is where your high‑mark critical thinking shows.
+Example evaluation points:
+
+Mauritius faces periodic USD shortages.
+BoM interventions sometimes distort free‑market price discovery.
+Businesses complain about delays in obtaining FX from banks.
+Hedging is limited because Mauritian firms lack derivatives expertise.
+
+6. LINK BACK to the question
+One sentence connecting the function to the “role of the forex market”.
+
+
+C. OPTIONAL SECTION: CHALLENGES IN MAURITIAN FOREX MARKET
+(High‑mark addition)
+You can add:
+
+USD shortages (2020–2023)
+High import dependency
+Chronic MUR depreciation
+Volatility from global crises
+Regulatory constraints
+Limited hedging instruments
+
+D. CONCLUSION (1 paragraph)
+Include:
+
+Summarise the importance of forex markets globally
+Reinforce the key functions
+Emphasise Mauritius’ dependence on FX for trade, tourism, investment
+Conclude on the need for a robust and liquid forex system
+
+Strategy for Maximum Marks
+To score full marks:
+✔ Use headings
+Shows clarity and structure.
+✔ Use examples in every section
+Mauritius-specific = guaranteed marks.
+✔ Use analysis + evaluation
+This separates you from students who just “explain”.
+✔ Make each paragraph 180–220 words
+This fills the required length and depth.
