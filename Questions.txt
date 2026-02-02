@@ -8,9 +8,10 @@ Answer:
 
 Intro:
 
-p1:
+p1(Oman):Exchange rate determination is an important part of the forex market. It helps determine the price of one currency relative to another through demand and supply interaction. In Mauritius for example, the rate of exchange of the Mauritian Rupees is determined daily in the forex market against major currencies such as the USD and the EURO. The exchange rate is affected by factors such as demand and supply, tourism and investment. For example, during summer, the demand for the Mauritian Rupees on the forex market increases as there is an increase in tourism. Through continuous trading and investing, the forex market compiles all of these factors and ensures that the value of the Mauritian Rupees is a true reflection of the Mauritian Economic conditions.
 
-p2:
+p2(Oman):Facilitation of trade is another key aspect of the how the forex market is beneficial to Mauritius. The presence of a liquid forex market in Mauritius allows importers to have readily available foreign currency which facilitates the payment of essential goods such as fuel, food and pharmaceutical products. It also helps exporters to quickly convert foreign currencies to the Mauritian Rupees to pay for Mauritian goods which bring foreign exchange to the country, and this contributes more towards increasing the rate of the Mauritian Rupees in the Forex market and increasing the stabilisation of the Mauritian Economy. Another way we benefit from this is that trade brings foreign currency into the country which helps in growing the economy which leads to increasing the value of our Mauritian Rupees.
+
 
 P3:
 
