@@ -7,20 +7,21 @@ you are those concrete steps that retail banks should take with key examples for
 
 
 Bullet points:
-- Introduction
-- Digital transformation and cost reduction
-- Improving risk management and credit control
-- Diversification of products and revenue streams
-- Customer-centric approach and service quality
-- ustainability and long-term strategic repositioning
-- Conclusion
--
+
+- Introduction (Aayush)
+- Digital transformation and cost reduction (Yohann)
+- Improving risk management and credit control (Aayush)
+- Diversification of products and revenue streams (Farhaan)
+- Customer-centric approach and service quality (Ashfarh)
+- Sustainability and long-term strategic repositioning (Oman)
+- Conclusion (Yohann)
+
 
 What is expected and how it will be marked?
 How a 25-mark answer is usually structured
 
 
-📌 Introduction (2–3 marks)
+📌 Introduction (2–3 marks) - (120-150 words)
 
 Brief context of economic fallout
 
@@ -28,7 +29,7 @@ Mention importance of retail banks adapting
 
 State that the answer will discuss key concrete steps with Mauritius examples
 
-📌 Main body (18–20 marks)
+📌 Main body (18–20 marks) - 5 paragraphs (120-150 words each)
 
 Split into 4–5 main steps, each worth ~4–5 marks:
 
@@ -40,8 +41,153 @@ Why it matters for profitability
 
 Example from Mauritius banks
 
-📌 Conclusion (2–3 marks)
+📌 Conclusion (2–3 marks) - (80-125 words)
 
 Summarise key points
 
 Emphasise long-term sustainability and profitability
+
+
+
+What to include in your answer ? : 
+✅ 1. DEFINE
+
+What it means:
+Give a short and simple meaning of the concept you are discussing.
+
+Rules:
+
+1–2 sentences only
+
+No long textbook definitions
+
+Just introduce the idea
+
+Example:
+Digital transformation refers to the use of technology to improve banking services and operations.
+
+✅ 2. EXPLAIN
+
+What it means:
+Describe how the strategy works and what banks actually do.
+
+Rules:
+
+This is the main part of the paragraph
+
+Explain actions, processes, and relevance during economic fallout
+
+Example:
+This involves online banking platforms, mobile applications and automated services, which reduce the need for physical branches and manual processes.
+
+✅ 3. ANALYSE
+
+What it means:
+Show cause and effect using economic thinking.
+
+Rules:
+
+Use phrases like “This leads to…”, “As a result…”
+
+Clearly link the strategy to profitability
+
+Example:
+As a result, operating costs are reduced and efficiency is improved, which helps banks remain profitable during periods of economic uncertainty.
+
+✅ 4. APPLY
+
+What it means:
+Use real examples from Mauritius banks.
+
+Rules:
+
+This is compulsory for full marks
+
+Mention real banks and real actions
+
+Example:
+In Mauritius, banks such as MCB have introduced the Juice mobile application, while SBM has expanded its internet banking services.
+
+🔍 What about EVALUATION?
+
+Can be added lightly (1 sentence only)
+
+Example:
+However, this strategy requires high initial investment, which may affect short-term profits.
+
+(Use only if it fits naturally.)
+EVALUATE
+
+Assess strengths, weaknesses, limitations, effectiveness.
+Appear at the end of a major section or after a function.
+This is where you get high marks.
+
+
+Detailed of Bullet Points
+
+1. Digital transformation and cost reduction
+
+What to say:
+- Banks must invest in online banking, mobile apps, automation
+- Reduces branch costs and operational expenses
+- Improves customer convenience
+Mauritius examples:
+- MCB Juice App for payments and transfers
+- SBM Internet Banking and digital onboarding
+- Reduction of physical branch visits
+Link to profit:
+- Lower operating costs
+- Higher transaction volumes
+- Better customer retention
+
+2. Improving risk management and credit control
+
+What to say:
+- Economic fallout increases loan defaults
+- Banks must strengthen credit assessment and monitoring
+- Focus on quality lending rather than risky growth
+Mauritius examples:
+- Banks restructuring loans for SMEs post-COVID 
+- More stringent loan approval processes at MCB and SBM
+Link to profit:
+- Fewer bad debts
+- Stable long-term income
+
+3. Diversification of products and revenue streams
+
+What to say:
+- Relying only on traditional loans is risky
+- Banks should offer insurance, investment products, wealth management
+Mauritius examples:
+- MCB Group offering investment funds and insurance
+- SBM Life Insurance products
+- Bancassurance services
+Link to profit:
+- Fee-based income
+- Reduced dependence on interest income
+
+4. Customer-centric approach and service quality
+
+What to say:
+- Customers compare banks more than ever
+- Personalised services and better customer experience are essential
+Mauritius examples:
+- Dedicated relationship managers
+- Loyalty programs and tailored SME solutions
+- Faster complaint resolution via digital channels
+Link to profit:
+- Customer retention
+- Cross-selling opportunities
+
+5. Sustainability and long-term strategic repositioning
+
+What to say:
+- Banks must prepare for the future: ESG, green finance, financial inclusion
+- Align with global and regional trends
+Mauritius examples:
+- Green loans for solar energy
+- Financing sustainable projects
+- Support for SMEs and start-ups
+Link to profit:
+- Long-term growth
+- Better reputation and regulatory alignment
