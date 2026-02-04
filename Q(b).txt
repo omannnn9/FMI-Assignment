@@ -123,6 +123,8 @@ Appear at the end of a major section or after a function.
 This is where you get high marks.
 
 
+Example of Paragraph : One important strategy retail banks can take to remain profitable is digital transformation (DEFINE). Digital transformation means using technology to improve banking operations and customer services. This involves online banking platforms, mobile applications, and automated services that allow customers to perform transactions without visiting branches (EXPLAIN). As a result, banks reduce operational costs and improve efficiency, which helps maintain profitability even during economic uncertainty (ANALYSE). In Mauritius, banks such as MCB have launched the Juice mobile application for seamless payments, while SBM has expanded internet banking services to cater to both individual and SME customers (APPLY). However, this strategy requires significant upfront investment, which may limit short-term profits for smaller banks (optional EVALUATE).
+
 Detailed of Bullet Points
 
 1. Digital transformation and cost reduction
