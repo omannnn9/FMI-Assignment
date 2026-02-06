@@ -6,9 +6,7 @@ you are those concrete steps that retail banks should take with key examples for
 
 Work done :
 Aayush(Intro) -
-
 Yohann (Para 1) - Digital Transformation refers to the use of digital technologies by banks to improve their services, internal operations and customer interactions to reduce dependency on traditional, manual and expensive banking methods. It involves bank moving key services and internal processes to digital platforms such as mobile banking, internet banking or automated systems. This includes digital payments, online account management services and robotic process automation, which reduces paperwork, staff workload, and reliance on physical branches, especially during periods of economic uncertainty. This leads to lower operating expenses as banks spend less on branch maintenance, paperwork, and staff costs. As a result, efficiency is improved and transactions are processed faster, allowing banks to serve more customers at a lower cost. This helps maintain profitability during periods of challenging economic conditions even when interest income and customer spending may decline. For example, Mauritius Commercial Bank (MCB) launched the MCB Juice, an app allowing customers to carry out transfers, pay bills, and manage accounts without visiting branches. However, applying Digital Transformation requires significant initial investment in technology and staff training, which may temporarily affect short-term profits.
-
 Aayush (Para 2) -
 Farhaan (Para 3) -
 Oman (Para 4) -
