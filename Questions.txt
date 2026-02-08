@@ -49,8 +49,6 @@ p5:
 
 conclusion:
 
-Answer:
-
 [25 MARKS]
 
 Question:(c)The COVID-19 pandemic could be the most serious challenge to financial institutions in nearly a century.
