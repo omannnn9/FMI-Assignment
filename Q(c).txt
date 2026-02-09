@@ -3,12 +3,249 @@ Critically assess the challenges faced by the retail banks in the current contex
 
 [25 MARKS]
 
-
+Work Done :
+Introduction (Farhaan) -
+Para 1 (Aayush) -
+Para 2 (Farhaan) -
+Para 3 (Yohann) -
+Para 4 (Oman) -
+Para 5 (Ashfarh) -
+Conclusion (Oman) -
 
 Bullet points:
--
--
--
--
--
--
+- Introduction - Farhaan
+- Deterioration in Asset Quality (Credit Risk & NPLs) - Aayush
+- Net Interest Margin (NIM) Compression & Profitability Pressure - Farhaan
+- Operational & Technological Disruptions (Digital Transformation & Remote Work) - Yohann
+- Liquidity & Funding Pressures - Oman
+- Regulatory & Compliance Burdens & Customer Expectations - Ashfarh
+- Conclusion - Oman
+
+
+What is expected and how it will be marked?
+
+For a 25-mark question, examiners expect a critical discussion, not just a description. This means you must identify the main challenges faced by retail banks due to COVID-19, explain how these challenges affect bank profitability and stability, and briefly evaluate their long-term impact. Marks are awarded for clear structure, logical analysis, real-world application (especially Mauritius examples), and evidence of evaluation. Simply listing challenges will not score high marks.
+
+How a 25-mark answer is usually structured
+
+📌 Introduction (2–3 marks)  - (120-150 words)
+
+Brief context of the economic fallout caused by COVID-19
+
+Highlight why retail banks were heavily affected
+
+State that the answer will assess key challenges using relevant examples
+
+📌 Main body (18–20 marks) - 5 paragraphs (120-150 words each)
+
+Split into 4–5 main challenges, each worth about 4–5 marks
+
+For each challenge:
+
+Define the challenge briefly
+
+Explain how COVID-19 caused or worsened it
+
+Analyse the impact on profitability and stability
+
+Apply real examples from Mauritius banks
+
+Evaluate limitations or trade-offs (1 sentence)
+
+📌 Conclusion (2–3 marks) - (80-125 words)
+
+Summarise the main challenges discussed
+
+Emphasise long-term sustainability and profitability
+
+Link banks’ resilience to economic recovery
+
+What to include in your answer (COVID-19 challenges – Retail Banks)
+
+Use this structure for each challenge you discuss (e.g. credit risk, profitability, digital disruption, liquidity, customer confidence).
+
+✅ 1. DEFINE
+
+What it means:
+Briefly define the challenge faced by retail banks due to COVID-19.
+
+Rules:
+
+1–2 sentences only
+
+Simple and clear
+
+No long textbook definitions
+
+Example:
+Credit risk refers to the possibility that borrowers may be unable to repay their loans on time.
+
+✅ 2. EXPLAIN
+
+What it means:
+Explain how COVID-19 caused or worsened this challenge for retail banks.
+
+Rules:
+
+Main part of the paragraph
+
+Link directly to lockdowns, income loss, business closures, uncertainty
+
+Focus on retail banks (households, SMEs)
+
+Example:
+During the COVID-19 pandemic, job losses and reduced business activity affected borrowers’ ability to meet loan repayments.
+
+✅ 3. ANALYSE
+
+What it means:
+Show cause and effect and link the challenge to bank performance.
+
+Rules:
+
+Use phrases like “This leads to…”, “As a result…”
+
+Clearly link to profitability, stability, or capital
+
+Example:
+As a result, banks faced higher non-performing loans and had to increase provisions, which reduced profitability.
+
+✅ 4. APPLY
+
+What it means:
+Support your point with real examples from Mauritius.
+
+Rules:
+
+Compulsory for high marks
+
+Mention actual banks and actions taken
+
+Example:
+In Mauritius, banks such as MCB and SBM were exposed to higher credit risk in sectors like tourism and SMEs.
+
+🔍 EVALUATE (for higher marks)
+
+What it means:
+Briefly assess strengths, weaknesses, or limitations.
+
+Rules:
+
+1 sentence only
+
+Place at the end of the paragraph
+
+Use words like “However”, “Despite this”
+
+Example:
+However, loan moratoria reduced short-term defaults but increased uncertainty about future loan performance.
+
+1. Deterioration in Asset Quality (Credit Risk & NPLs)
+
+What to say:
+
+Loan defaults surged among households and SMEs due to job losses and business closures
+
+Banks faced higher credit risk, requiring larger loan-loss provisions
+
+This impacted profitability and weakened balance-sheet strength
+
+Mauritius examples:
+
+MCB and SBM exposed to tourism and SME sectors
+
+Use of stricter credit assessments, early warning systems, and loan restructuring
+
+Link to profit:
+
+Higher NPLs reduce earnings and capital adequacy
+
+Effective monitoring protects long-term financial stability
+
+2. Net Interest Margin (NIM) Compression & Profitability Pressure
+
+What to say:
+
+Ultra-low interest rates reduced lending profitability
+
+Decline in loan demand and slower economic activity weakened traditional retail banking income
+
+Increased operational and provisioning costs added pressure
+
+Mauritius examples:
+
+Reduced consumer and business lending during lockdown periods
+
+Banks relied more on transaction fees and bancassurance for revenue
+
+Link to profit:
+
+Shrinking interest income reduces overall profitability
+
+Diversified income streams help banks remain resilient
+
+3. Operational & Technological Disruptions (Digital Transformation & Remote Work)
+
+What to say:
+
+Branch closures and remote working created operational strain
+
+Rapid digital adoption was necessary to maintain service continuity
+
+Increased cybersecurity risks, system outages, and short-term tech costs
+
+Mauritius examples:
+
+MCB Juice App for payments, transfers, and account management
+
+SBM Internet Banking and digital onboarding platforms
+
+Link to profit:
+
+Digital platforms reduce operating costs long-term
+
+Improve customer experience and retention, but require initial investment
+
+4. Liquidity & Funding Pressures
+
+What to say:
+
+Customers drew down deposits and credit lines due to uncertainty
+
+Banks had to maintain higher liquidity buffers, increasing funding costs
+
+Cash flow management became critical to avoid short-term crises
+
+Mauritius examples:
+
+Banks adjusted repayment schedules and closely monitored cash flows
+
+Bank of Mauritius provided liquidity support measures
+
+Link to profit:
+
+Ensures financial stability and continuity of lending
+
+Protects profitability, but maintaining buffers can temporarily reduce returns
+
+5. Regulatory & Compliance Burdens & Customer Expectations
+
+What to say:
+
+New rules on loan moratoria, capital requirements, and stress testing increased compliance demands
+
+Banks needed to maintain customer trust and deliver quality service amid operational constraints
+
+Balancing regulatory compliance and customer satisfaction was essential
+
+Mauritius examples:
+
+SBM set up dedicated SME desks for loans and business support
+
+MCB enhanced private banking and customer communication during the pandemic
+
+Link to profit:
+
+Maintaining compliance avoids penalties and reputational risk
+
+High-quality service retains deposits and supports cross-selling opportunities
