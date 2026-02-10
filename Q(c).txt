@@ -9,7 +9,7 @@ Para 1 (Aayush) -
 Para 2 (Farhaan) -
 Para 3 (Yohann) -
 
-Para 4 (Oman) -The covid-19 pandemic also caused some short-term cash flow problems for Mauritian retail banks. During the pandemic, both SME’s and individuals slowed down or stopped depositing money into banks. This led to a decrease in funding and banks found it more difficult to issue new loans and paying depositors and investors. In parallel to that, the global market exploded, and it became more difficult to get access to external funding, and the forex market was unstable. To maintain these pressures, banks had to maintain higher liquidity reserves so that they lower the risk of going out of business. This improved financial stability but led to a decrease in profitability and lending capacity.
+Para 4 (Oman) -The covid-19 pandemic also caused some short-term cash flow problems for Mauritian retail banks. During the pandemic, both SMEs and individuals slowed down or stopped depositing money into banks. This led to a decrease in funding and banks found it more difficult to issue new loans and pay depositors and investors. In parallel to that, the global market surged, and it became more difficult to get access to external funding, and the forex market was unstable. To manage these pressures, banks had to maintain higher liquidity reserves so that they lower the risk of insolvency. This improved financial stability but led to a decrease in profitability and lending capacity.
 
 Para 5 (Ashfarh) -
 Conclusion (Oman) -
